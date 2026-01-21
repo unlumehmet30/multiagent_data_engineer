@@ -1,0 +1,53 @@
+/llm_army
+/llm_army/llm_army
+/local_agent/__pycache__
+# Windows'a özgü sistem dosyaları
+Thumbs.db
+Desktop.ini
+
+# Log ve geçici dosyalar
+*.log
+*.tmp
+*.bak
+
+# Ortam / gizli bilgiler
+.env
+.env.*
+
+# IDE ve editör ayarları
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Derleme / çıktı klasörleri (genel)
+bin/
+obj/
+dist/
+build/
+out/
+
+# Python projeleri için
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node.js projeleri için
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# C/C++ derleme çıktıları
+*.exe
+*.dll
+*.obj
+*.pdb
+
+# Geçici arşivler
+*.zip
+*.7z
+*.rar

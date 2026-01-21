@@ -1,0 +1,12 @@
+Veri setinizde en çok satan ürün "Mouse" şeklindedir.
+
+Özet:
+- Veri setindeki sütun isimleri şunlardır:
+  - Tarih
+  - Urun
+  - Satis_Adedi
+  - Birim_Fiyat
+  - Bolge
+- En çok satan ürün: Mouse
+
+Bu bilgileri kullanarak verinin daha fazla analizi yapılabilir.
